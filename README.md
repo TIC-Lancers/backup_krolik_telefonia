@@ -1,4 +1,4 @@
-# 📞 Histórico de Telefonia - Krolik (Legacy)
+# 📞 Histórico de Telefonia - Krolik
 
 Ferramenta de busca e reprodução offline para o backup de gravações telefônicas da antiga operadora Krolik.
 Este projeto foi desenvolvido para garantir acesso fácil e rápido aos arquivos de áudio hospedados no SharePoint/OneDrive da **Lancers**, sem depender de sistemas externos.
@@ -26,3 +26,4 @@ O projeto deve ser mantido na mesma estrutura de diretórios do backup de áudio
     ├── index.html        # Interface para o usuário final
     ├── banco_dados.js    # Base de dados gerada (GitIgnored)
     └── README.md         # Documentação
+
