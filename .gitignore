@@ -1,0 +1,14 @@
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos gerados pelo script (Dados)
+*.xlsx
+banco_dados.js
+
+# Ignorar arquivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Garantia para não subir MP3 se alguém copiar pra cá sem querer
+*.mp3
